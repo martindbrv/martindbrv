@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Martin, a student and a DevOps engineer, living in the Netherlands.
+
 <!--
 **martindbrv/martindbrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
